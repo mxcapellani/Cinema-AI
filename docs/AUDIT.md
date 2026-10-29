@@ -1,0 +1,5 @@
+# Auditoria funcional
+Verificado documentalmente: identidade, missão image-to-video, interação PT-BR, EN com tradução, pergunta automático/manual, duas opções, atuação sutil, restrições de qualidade e referências de plataformas. Esses itens foram preservados nas instruções, mas o agente original não foi testado.
+Proposto na própria fonte: prompts A–E, catálogo detalhado, catálogo criativo, validação e estrutura de arquivos. Mantidos integralmente, sem apresentá-los como extração de mecanismos privados. Catálogo interno ousado indisponível, não verificado.
+Melhorias do pacote: distinção pan/track, variações do mesmo movimento manual, tratamento de regiões invisíveis e sequência, validação de exemplos e rastreabilidade. Sem imagem, só descrição identificada. Nenhuma renderização ou equivalência foi executada.
+Seção 7 da especificação está sem corpo: a lógica operacional foi implementada a partir do restante e identificada como implementação, não preenchimento de texto original. Exemplos fornecidos só têm opção 1; preservados como excertos e complementados por exemplos completos separados.
